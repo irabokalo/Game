@@ -4,7 +4,7 @@
 using namespace std;
 bool tell_the_truth(string answer)
 {
-    bool k;
+
     if (answer == "yes")
     {
         return true;
